@@ -54,7 +54,7 @@ Probabilities:
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/dice-probability-simulation.git
+git clone https://github.com/ms-cry/dice-simulation.git
 
 cd dice-probability-simulation
 
